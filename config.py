@@ -1,0 +1,4 @@
+config = {
+    USERNAME : '',
+    PASSWORD : '######'
+}
